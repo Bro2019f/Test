@@ -3,5 +3,5 @@ mono: none
 dotnet: 3.1 
 solution: ConsoleApp1.sln  //Виконавчий файл (заміняєте іменем вашого файлу ) 
 script:     
-  - dotnet test 
+  - dotnet test Тест/ConsoleApp1/UnitTestProject1/UnitTestProject1.csproj
  
